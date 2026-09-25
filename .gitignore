@@ -1,0 +1,27 @@
+# Java 컴파일 결과
+*.class
+/out/
+/target/
+/build/
+
+# Gradle 캐시 및 래퍼 캐시
+.gradle/
+
+# IntelliJ IDEA의 사용자별 설정 및 빌드 파일
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries/
+.idea/shelf/
+.idea/httpRequests/
+.idea/dataSources/
+.idea/dataSources.local.xml
+.idea/caches/
+
+# 운영체제 및 에디터 임시 파일
+.DS_Store
+*.swp
+*.swo
+
+# 로그
+*.log
